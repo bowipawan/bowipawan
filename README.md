@@ -7,38 +7,33 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-<p align="left">
+<p>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" /> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge" /> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge" /> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge" /> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=Cplusplus&logoColor=white&style=for-the-badge" /> </a>
   
+  
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white&style=for-the-badge" /> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge" /> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=for-the-badge" /> </a>
 
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=for-the-badge" /> </a>
+  <a href="https://www.pytorchlightning.ai/" target="_blank" rel="noreferrer"> <img alt="PyTorch Lightning" src="https://img.shields.io/badge/PyTorch Lightning-792EE5?logo=PyTorchLightning&logoColor=white&style=for-the-badge" /> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=for-the-badge" /> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=Pandas&logoColor=white&style=for-the-badge" /> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit Learn-F7931E?logo=ScikitLearn&logoColor=white&style=for-the-badge" /> </a>
 </p>
 
 <h3 align="left">Tools:</h3>
-<p align="left">
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<p>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge" /> </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img alt="AdobeIllustrator" src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=AdobeIllustrator&logoColor=white&style=for-the-badge" /> </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img alt="AdobePhotoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=AdobePhotoshop&logoColor=white&style=for-the-badge" /> </a>
 </p>
-
-
+  
+<h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bowipawan&show_icons=true&locale=en&layout=compact" alt="bowipawan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bowipawan&show_icons=true&locale=en" alt="bowipawan" /></p>
